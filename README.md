@@ -1,3 +1,3 @@
 # flask-tutorial
 
-Done : Templates
+Done : Make the Project Installable
